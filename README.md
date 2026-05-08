@@ -352,7 +352,7 @@ ordenado, más fácil de mantener y también facilitaría hacer pruebas en el fu
 #   CONCLUSIÓN
 
 En general, este proyecto me ayudó a entender mejor cómo se conecta todo el backend con 
-Docker, Laravel y la base de datos, y como cada parte cumple su rol dentro de la 
+Docker, Laravel y la base de datos, y cómo cada parte cumple su rol dentro de la 
 arquitectura sin mezclarse entre sí. 
 
 
@@ -613,13 +613,13 @@ JSON
 
 ## RESUMEN DE ENDPOINTS
 
-#  Método   Endpoint                  Descripción               CódigoÉxito
+#  Método   Endpoint                  Descripción               Código Éxito
 1  GET      `/api/health`             Estado del sistema        200
 2  GET      `/api/v1/clientes`        Listar clientes           200
 3  GET      `/api/v1/clientes/{id}`   Obtener cliente por ID    200
 4  POST     `/api/v1/clientes`        Crear cliente             201
-5  PUT      `/api/v1/clientes/{id}`    Actualizar cliente        200
-6  DELETE   `/api/v1/clientes/{id}`    Eliminar cliente          200
+5  PUT      `/api/v1/clientes/{id}`   Actualizar cliente        200
+6  DELETE   `/api/v1/clientes/{id}`   Eliminar cliente          200
 
 ---
 
