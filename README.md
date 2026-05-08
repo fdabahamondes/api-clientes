@@ -1,6 +1,6 @@
 #   Proyecto Backend - Evaluación I y II - API REST con Docker y Laravel
 
-**Integraste:** Fernanda Bahamondes
+**Integrante:** Fernanda Bahamondes
 **Asignatura:** Desarrollo de Backend - Sección 50
 **Repositorio GitHub:** https://github.com/fdabahamondes/api-clientes
 
